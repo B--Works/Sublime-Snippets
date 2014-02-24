@@ -1,6 +1,14 @@
 Sublime Snippets
 ================
 
+Instructions
+------------
+
+1. Go to sublime preferences
+2. Select "browse packages"
+3. Find the "user" folder
+4. paste in the snippet files
+
 XSLT
 ----
 This will generate a blank xslt document
