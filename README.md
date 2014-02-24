@@ -4,6 +4,7 @@ Sublime Snippets
 XSLT
 ----
 This will generate a blank xslt document
+
 1. Set sublime syntax to xslt
 2. ``` xslt [tab] ```
 
