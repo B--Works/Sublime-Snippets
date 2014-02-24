@@ -12,15 +12,13 @@ Instructions
 XSLT
 ----
 
-Basic Format
-============
+### Basic Format
 This will generate a blank xslt document
 
 1. Set sublime syntax to xslt
 2. ``` xslt [tab] ```
 
-XSL Choose
-==========
+### XSL Choose
 This will generate you a basic choose function
 
 1. Set sublime syntax to xslt
