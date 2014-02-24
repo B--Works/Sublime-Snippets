@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<?xml version="1.0"?>
+
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:template match="/">
+    	${1: <!-- TEXT HERE YO! -->}
+    </xsl:template>
+</xsl:stylesheet>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>xslt</tabTrigger>
+</snippet>
