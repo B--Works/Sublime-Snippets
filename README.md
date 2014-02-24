@@ -11,10 +11,23 @@ Instructions
 
 XSLT
 ----
+
+Basic Format
+============
 This will generate a blank xslt document
 
 1. Set sublime syntax to xslt
 2. ``` xslt [tab] ```
+
+XSL Choose
+==========
+This will generate you a basic choose function
+
+1. Set sublime syntax to xslt
+2. ``` xsl:choose [tab] ```
+3. Tab once to edit the test
+4. Tab twice to edit the when
+5. Tab three times to edit the otherwise
 
 console.log
 ----
