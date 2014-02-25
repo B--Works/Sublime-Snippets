@@ -1,13 +1,13 @@
 <snippet>
   <content><![CDATA[
-<xsl:choose>
-	<xsl:when test="${1: test what?}">
-		${2: <!-- write tha code! -->}
-	</xsl:when>
-	<xsl:otherwise>
-		${3: <!-- what happens if when isn't mathced?! -->}
-	</xsl:otherwise>
-</xsl:choose>
+  	<xsl:choose>
+  		<xsl:when test="${1: test what?}">
+  			${2: <!-- write the code! -->}
+  		</xsl:when>
+  		<xsl:otherwise>
+  			${3: <!-- what happens if when isn't matched?! -->}
+  		</xsl:otherwise>
+  	</xsl:choose>
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>xsl:choose</tabTrigger>

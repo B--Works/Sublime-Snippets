@@ -31,6 +31,13 @@ console.log
 ----
 This is a shortcut for console.log
 
-1. Set syntax to javascript
-2. ``` console [tab] ```
+1. Set syntax to JavaScript
+2. ``` log [tab] ```
 3. Tab twice to enter string
+
+Tweet sized templating
+----
+Quickly add a JavaScript snippet to add templating to your JavaScript files.
+
+1. Set syntax to JavaScript
+2. ``` ttt [tab] ```
