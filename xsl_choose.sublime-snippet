@@ -2,10 +2,10 @@
   <content><![CDATA[
   	<xsl:choose>
   		<xsl:when test="${1: test what?}">
-  			${2: <!-- write tha code! -->}
+  			${2: <!-- write the code! -->}
   		</xsl:when>
   		<xsl:otherwise>
-  			${3: <!-- what happens if when isn't mathced?! -->}
+  			${3: <!-- what happens if when isn't matched?! -->}
   		</xsl:otherwise>
   	</xsl:choose>
 ]]></content>
