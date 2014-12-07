@@ -23,3 +23,9 @@ This is a shortcut for console.log
 1. Set syntax to javascript
 2. ``` console [tab] ```
 3. Tab twice to enter string
+
+Jekyll Include
+----
+This will generate a Jekyll include tag
+
+1. ``` jinc [tab]```
