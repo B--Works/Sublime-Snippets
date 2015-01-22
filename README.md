@@ -47,3 +47,9 @@ Jekyll Include
 This will generate a Jekyll include tag
 
 1. ``` jinc [tab]```
+
+Strict
+---
+Add the function form of "use strict".
+
+1. ``` strict [tab] ```
